@@ -1,7 +1,7 @@
 return {
     {
       id = 127072670296905,
-      name = "Skibidi Toilet Block",
+      name = "Skibidi Toilet Poop",
     }
   }
   
